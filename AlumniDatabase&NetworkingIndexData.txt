@@ -1,0 +1,12 @@
+Name: Kamau
+Graduation year: 2023
+Phonenumber: +232323232
+Company: Oracle
+Skill: Engineering
+************************
+Name: Alex
+Graduation year: 2023
+Phonenumber: +13132232
+Company: Starlink
+Skill: Astronaut
+************************

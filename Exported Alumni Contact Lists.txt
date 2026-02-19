@@ -1,0 +1,8 @@
+Record number: 1
+Name: Kamau
+Phonenumber: +232323232
+************************
+Record number: 2
+Name: Alex
+Phonenumber: +13132232
+************************
